@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akanksha Tyagi</h1>
+![Learning Log](04_assets/learning_log_day1.png)<h1 align="center">Hi 👋, I'm Akanksha Tyagi</h1>
 <h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Machine Learning | Agentic AI</h3>
 
 - 🔭 I’m currently working on [Data Analytics Portfolio](https://github.com/Akanksha884/data-analytics-portfolio)
